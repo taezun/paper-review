@@ -12,6 +12,16 @@
 
 <br/>
 
+### Dataset
+**1. [ICML'22]** [WILDS: A Benchmark of in-the-Wild Distribution Shifts](https://arxiv.org/abs/2012.07421)
+> <details>
+> <summary>...</summary>
+> 
+> 
+> </details>
+
+<br/>
+
 ### Classification-based methods
 **1. [NeurIPS'21]** [Exploring the Limits of Out-of-Distribution Detection](https://arxiv.org/abs/2106.03004)
 > <details>
@@ -48,6 +58,13 @@
 > </details>
 
 **3. [AISTATS'21]** [Density of States Estimation for Out-of-Distribution Detection](https://arxiv.org/abs/2006.09273)
+> <details>
+> <summary>...</summary>
+> 
+> 
+> </details>
+
+**4. [ICLR'23]** [RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data](https://arxiv.org/abs/2302.14483)
 > <details>
 > <summary>...</summary>
 > 
@@ -133,7 +150,31 @@
 > 
 > </details>
 
-**2. [CVPR'21]** [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
+**2. [NeurIPS'20]** [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
+> <details>
+> <summary>...</summary>
+> 
+> 
+> </details>
+
+**3. [CVPR'21]** [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
+> <details>
+> <summary>...</summary>
+> 
+> 
+> </details>
+
+<br/>
+
+### Information maximisation methods
+**1. [ICML'21]** [Barlow Twins: Self-Supervised Learning via Redundancy Reduction](https://arxiv.org/abs/2103.03230)
+> <details>
+> <summary>...</summary>
+> 
+> 
+> </details>
+
+**2. [ICLR'22]** [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/abs/2105.04906)
 > <details>
 > <summary>...</summary>
 > 
