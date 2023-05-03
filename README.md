@@ -140,24 +140,24 @@
 > 
 > </details>
 
+**2. [CVPR'20]** [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+> <details>
+> <summary>...</summary>
+> 
+> 
+> </details>
+
 <br/>
 
-### Stop-gradient operation
-**1. [CVPR'20]** [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+### Knowledge distillation methods / Stop-gradient operation
+**1. [NeurIPS'20]** [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 > <details>
 > <summary>...</summary>
 > 
 > 
 > </details>
 
-**2. [NeurIPS'20]** [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
-> <details>
-> <summary>...</summary>
-> 
-> 
-> </details>
-
-**3. [CVPR'21]** [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
+**2. [CVPR'21]** [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
 > <details>
 > <summary>...</summary>
 > 
