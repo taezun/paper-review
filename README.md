@@ -73,7 +73,7 @@
 
 <br/>
 
-### Knowledge distillation methods / Stop-gradient operation
+### Knowledge distillation methods
 **1. [NeurIPS'20]** [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 
 **2. [CVPR'21]** [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
